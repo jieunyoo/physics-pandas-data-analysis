@@ -1,6 +1,6 @@
 #This repo. includes various scripts that were used for analyzing physics data from the CAPTAIN experiment.
 
-###These scripts were last modified in 2016. Note: the data format may have changed since then.
+These scripts were last modified in 2016. Note: the data format may have changed since then.
 
 See the folder \plots for example plots
 
